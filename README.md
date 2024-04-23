@@ -1,4 +1,8 @@
-<img align="right" src="./terminal.gif" height="200px" alt="terminal">
+<div align="center">
+
+<img src="./terminal.gif" height="200px" alt="terminal">
+
+</div>
 
 <div align="center">
 
