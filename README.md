@@ -27,11 +27,11 @@ const giovanni = {
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 
 <p style="animation: fadein 2s; font-size: medium;font-family: 'IBM Plex Mono', monospace;">
-Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
-  <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
-  <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
-  
-</p>
+Hey there! 👋 I'm Giovanni, a web developer passionate about creating new things. I've shared some interesting projects, so make sure to check them out on my GitHub profile ✌️.<br/><br/>
+-✨ I dedicate my free time to building and developing free applications and websites because I love to keep growing and perfecting my skills 😄.<br/><br/>
+-📚 Right now, my main focus is on learning everything about web development, from front-end technologies to back-end intricacies.<br/><br/>
+-🤝 I'm always excited to collaborate with others and contribute to various projects. If you have a project that needs an extra hand or new ideas, feel free to contact me!
+</p><br/><br/>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
