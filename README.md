@@ -1,4 +1,5 @@
-# Welcome to my Github
+<h1  style="font-family: 'IBM Plex Mono', monospace;">Welcome to my Github</h1>
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@giovannideveloper.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannideveloper)
@@ -19,6 +20,5 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannidevelopments&theme=gotham&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannidevelopments&layout=compact&theme=gotham)
 
