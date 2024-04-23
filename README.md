@@ -31,7 +31,7 @@ Hey there! 👋 I'm Giovanni, a web developer passionate about creating new thin
 -✨ I dedicate my free time to building and developing free applications and websites because I love to keep growing and perfecting my skills 😄.<br/><br/>
 -📚 Right now, my main focus is on learning everything about web development, from front-end technologies to back-end intricacies.<br/><br/>
 -🤝 I'm always excited to collaborate with others and contribute to various projects. If you have a project that needs an extra hand or new ideas, feel free to contact me!
-</p><br/><br/>
+</p>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
