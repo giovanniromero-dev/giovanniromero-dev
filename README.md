@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="right">
     <img src="./terminal .gif" alt="Descripción de la imagen" height="200px">
 </div>
 
