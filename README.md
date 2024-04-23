@@ -7,7 +7,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@giovannideveloper)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@giovannideveloper)
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFvbGU2bTlnMmZvZmtzeHJ5Mm4wamtyaXRjY3FsMmFlcnI4NG40YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2p1ng5ek9qIR8wzPn5/giphy-downsized-large.gif" height="560px" alt="pixel city image">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFvbGU2bTlnMmZvZmtzeHJ5Mm4wamtyaXRjY3FsMmFlcnI4NG40YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2p1ng5ek9qIR8wzPn5/giphy-downsized-large.gif" height="300px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
 Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
   <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
