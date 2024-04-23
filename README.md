@@ -20,7 +20,7 @@ const giovanni = {
   pronouns: "he" | "him",
   age: 23,
   code: [HTML, CSS, Javascript, Typescript],
-  tools: [React, Node, Express.js, Vite, JWT],
+  tools: [React, Node, ExpressJS, Vite, JWT],
 }
 ```
 
