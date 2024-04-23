@@ -10,7 +10,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@giovannideveloper)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@giovannideveloper)
 
-"Soy un programador web de 22 años apasionado por la creación de experiencias digitales únicas y funcionales. Con sólidos conocimientos en desarrollo front-end y back-end, disfruto trabajando en proyectos que desafían mis habilidades y me permiten explorar nuevas tecnologías. Comprometido con el aprendizaje continuo, estoy siempre buscando mejorar mis habilidades y contribuir al mundo digital con soluciones innovadoras y eficientes."
+<p style="font-family: 'IBM Plex Mono', monospace;">Soy un programador web de 22 años apasionado por la creación de experiencias digitales únicas y funcionales. Con sólidos conocimientos en desarrollo front-end y back-end, disfruto trabajando en proyectos que desafían mis habilidades y me permiten explorar nuevas tecnologías. Comprometido con el aprendizaje continuo, estoy siempre buscando mejorar mis habilidades y contribuir al mundo digital con soluciones innovadoras y eficientes.</p>
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
