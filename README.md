@@ -1,5 +1,5 @@
-<div align="right">
-    <img src="./terminal .gif" alt="Descripción de la imagen" height="200px">
+<div align="center">
+    <img src="./terminal .gif" alt="Descripción de la imagen" height="200px" width="500px">
 </div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@giovannideveloper.com)
