@@ -1,3 +1,26 @@
+<style>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    h1 {
+      overflow: hidden; /* Para ocultar el texto mientras se está escribiendo */
+      border-right: .15em solid lime; /* Efecto de cursor */
+      white-space: nowrap; /* Para que no se rompa el texto en varias líneas */
+      margin: 0 auto; /* Centrar el texto */
+      letter-spacing: .15em; /* Espacio entre letras */
+      animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite alternate; /* Animación de escribir */
+      font-family: 'IBM Plex Mono', monospace; /* Fuente estilo terminal */
+      color: lime; /* Color de las letras */
+      background-color: #000; /* Color de fondo */
+      padding: 10px; /* Añade un poco de espacio alrededor del texto */
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: lime }
+    }
+  </style>
+
 <h1  style="font-family: 'IBM Plex Mono', monospace;">Welcome to my Github</h1>
 
 
