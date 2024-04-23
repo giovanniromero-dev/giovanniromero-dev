@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./terminal.gif" height="200px" alt="terminal">
+<img src="./terminal.gif" height="230px" alt="terminal">
 
 </div>
 
