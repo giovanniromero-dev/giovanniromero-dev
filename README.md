@@ -31,7 +31,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannidevelopments&layout=compact&theme=gotham)
 
 
-[![Giovanni Developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giovannidevelopments&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/muhammad-fiaz/)
+![Giovanni Developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giovannidevelopments&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)
 
 
  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
