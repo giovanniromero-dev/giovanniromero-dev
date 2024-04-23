@@ -34,4 +34,4 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
 
 
-[![Muhammad Fiaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giovannidevelopments&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/giovannidevelopments/)
+[![Giovanni Developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giovannidevelopments&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/muhammad-fiaz/)
