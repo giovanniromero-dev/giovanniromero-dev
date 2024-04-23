@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9hcXh4enlmMHdjZ3Z4azM4cnBreTA3MW9kbXRvNGlnYXVpZnAxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2p1ng5ek9qIR8wzPn5/giphy-downsized-large.gif" width="200"/> Welcome to my Github
+# Welcome to my Github
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9hcXh4enlmMHdjZ3Z4azM4cnBreTA3MW9kbXRvNGlnYXVpZnAxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2p1ng5ek9qIR8wzPn5/giphy-downsized-large.gif" width="200"/> 
 
 ![Banner de Giovanni Developer](github-header-image.png)
 
@@ -21,6 +23,5 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannidevelopments&theme=gotham&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannidevelopments&layout=compact&theme=gotham)
 
