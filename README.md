@@ -1,3 +1,7 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+</style>
+
 <div align="center">
 
 <img src="./terminal.gif" height="230px" alt="terminal">
