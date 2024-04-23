@@ -1,5 +1,6 @@
-<h1  style="font-family: 'IBM Plex Mono', monospace;">Welcome to my Github</h1>
-
+<div style="text-align: center;">
+    <img src="./terminal .gif" alt="Descripción de la imagen" height="200px">
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@giovannideveloper.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannideveloper)
