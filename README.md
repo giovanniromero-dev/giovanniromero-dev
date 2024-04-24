@@ -19,9 +19,10 @@
 const giovanni = {
   pronouns: "he" | "him",
   age: 23,
-  code: [HTML, CSS, Javascript, Typescript],
-  tools: [React, Node, ExpressJS, Vite, JWT],
-}
+  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  tools: ["React", "Node", "ExpressJS", "Vite", "JWT"]
+};
+
 ```
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
