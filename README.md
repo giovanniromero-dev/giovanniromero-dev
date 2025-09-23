@@ -45,8 +45,3 @@ Hey there! 👋 I'm Giovanni, a web developer passionate about creating new thin
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannidevelopments&layout=compact&theme=gotham)
-
-![Giovanni Developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giovannidevelopments&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)
