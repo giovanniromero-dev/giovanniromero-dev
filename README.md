@@ -18,7 +18,7 @@
 ```javascript
 const giovanni = {
   pronouns: "he" | "him",
-  age: 23,
+  age: 24,
   code: ["HTML", "CSS", "JavaScript"],
   tools: ["React", "Node", "ExpressJS", "Vite", "JWT"],
   databases: ["MySQL", "MongoDB"]
