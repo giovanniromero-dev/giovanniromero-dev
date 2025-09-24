@@ -29,6 +29,7 @@ how blockchain technology is transforming the web.
 from smart contract development to full-stack Web3 integrations.  
 
 🤝 I’m always open to collaborating and creating new ideas in the Web3 space.  
+
 If you’re working on something exciting, feel free to reach out!
 </p>
 
