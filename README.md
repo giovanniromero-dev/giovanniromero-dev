@@ -6,14 +6,21 @@
 
 </div>
 
-```javascript
-const giovanni = {
-  pronouns: "he" | "him",
-  age: 24,
-  code: ["HTML", "CSS", "JavaScript"],
-  tools: ["React", "Node", "ExpressJS", "Vite", "JWT"],
-  databases: ["MySQL", "MongoDB"]
-};
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.30;
+
+contract Giovanni {
+    string public name = "Giovanni";
+    string public role = "Full Stack Developer";
+    string[] public focus = ["Smart Contracts", "DApps", "DeFi"];
+    string public network = "Web3";
+    bool public openToCollab = true;
+
+    function gm() public pure returns (string memory) {
+        return "gm 👋 let’s build together!";
+    }
+}
 ```
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
