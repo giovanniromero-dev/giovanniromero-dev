@@ -25,6 +25,7 @@ contract Giovanni {
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 
+<br/>
 <p style="animation: fadein 2s; font-size: medium;font-family: 'IBM Plex Mono', monospace;">
 Hey there! 👋 I’m Giovanni, a Full Stack Developer specialized in Web3:  
 Smart Contracts, DApps, and DeFi.  
@@ -39,7 +40,7 @@ from smart contract development to full-stack Web3 integrations.
 
 If you’re working on something exciting, feel free to reach out!
 </p>
-
+<br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
