@@ -19,10 +19,17 @@ const giovanni = {
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 
 <p style="animation: fadein 2s; font-size: medium;font-family: 'IBM Plex Mono', monospace;">
-Hey there! 👋 I'm Giovanni, a web developer passionate about creating new things. I've shared some interesting projects, so make sure to check them out on my GitHub profile 👌.<br/><br/>
--💻 I dedicate my free time to building and developing applications and websites because I love to keep growing and perfecting my skills 😄.<br/><br/>
--📚 Right now, my main focus is on learning everything about web development, from front-end technologies to back-end intricacies.<br/><br/>
--🤝 I'm always excited to collaborate with others and contribute to various projects. If you have a project that needs an extra hand or new ideas, feel free to contact me!
+Hey there! 👋 I’m Giovanni, a Full Stack Developer specialized in Web3:  
+Smart Contracts, DApps, and DeFi.  
+
+💻 I dedicate my time to building decentralized applications and exploring 
+how blockchain technology is transforming the web.  
+
+📚 I share my journey through learnings, results, and the projects I build, 
+from smart contract development to full-stack Web3 integrations.  
+
+🤝 I’m always open to collaborating and creating new ideas in the Web3 space.  
+If you’re working on something exciting, feel free to reach out!
 </p>
 
 
