@@ -2,7 +2,7 @@
     
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@giovanniro​mero.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanniro​mero-dev/)
-[![Website](https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=microsoftedger&logoColor=white)](https://giovanniromero.dev)
+[![Website](https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=privateinternetaccess&logoColor=white)](https://giovanniromero.dev)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/giovanni_dev_)
     
 </div>
