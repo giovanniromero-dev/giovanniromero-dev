@@ -1,14 +1,5 @@
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" alt="Gmail"/>](mailto:contact@giovannideveloper.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannideveloper)
-[![Website](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://giovanniromero.dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/giovanni_dev_)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannideveloper)
-[![Website](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://giovanniromero.dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/giovanni_dev_)
-
 </div>
 
 ```solidity
