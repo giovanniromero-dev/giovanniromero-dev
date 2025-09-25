@@ -23,7 +23,7 @@ contract Giovanni {
 }
 ```
 
-<img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR2NDR6azh4ZHViNGV4M2V3bGM1c21ldTZiZW00ZnNxZGhscjJobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ya63hjCGVaHjmXzWy0/giphy.gif" height="560px" alt="pixel city image">
 
 <br/>
 <p style="animation: fadein 2s; font-size: medium;font-family: 'IBM Plex Mono', monospace;">
