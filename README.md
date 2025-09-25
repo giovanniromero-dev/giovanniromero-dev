@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@giovannideveloper.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannideveloper)
-[![Website](https://img.shields.io/badge/Web-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://giovanniromero.dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/giovanni_dev_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:contact@giovannideveloper.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannideveloper)
+[![Website](https://img.shields.io/badge/Web-%23000000.svg?style=social&logo=vercel&logoColor=white)](https://giovanniromero.dev)
+[![X](https://img.shields.io/badge/X-000000?style=social&logo=x&logoColor=white)](https://x.com/giovanni_dev_)
 
 </div>
 
