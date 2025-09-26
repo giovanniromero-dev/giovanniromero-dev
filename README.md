@@ -24,7 +24,7 @@ contract Giovanni {
 }
 ```
 
-<img align="right"  style="border-radius:15px;" height="500" width="500" hspace="-300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJrdTA1dXMweDZ4YzU5N2lnYW5rZW5sdnE4eXdvNGpkYTU2NHF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" height="560px" alt="pixel city image">
+<img align="right"  style="border-radius:15px;" height="500" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJrdTA1dXMweDZ4YzU5N2lnYW5rZW5sdnE4eXdvNGpkYTU2NHF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" height="560px" alt="pixel city image">
 
 <br/>
 <p style="animation: fadein 2s; font-size: medium;font-family: 'IBM Plex Mono', monospace;">
