@@ -3,7 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@giovanniromero.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanniromero-dev/)
 [![Website](https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=pcgamingwiki&logoColor=white)](https://giovanniromero.dev)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo= x&logoColor=white)](https://x.com/giovanni_dev_)
     
 </div>
 
@@ -104,7 +103,7 @@ If you’re building something exciting with AI — let’s talk 🚀
 
 ---
 
-## 🚀 What I’m Building
+## What I’m Building
 
 - 🤖 Autonomous AI agents with tools & memory  
 - 🧠 Multi-agent workflows with LangGraph  
@@ -123,7 +122,7 @@ I’m open to:
 - Open-source contributions  
 - Full Stack + AI integrations  
 
-📩 Reach out via **LinkedIn**, **X**, or **email** — happy to connect!
+📩 Reach out via **LinkedIn** or **email** — happy to connect!
 
 ---
 
