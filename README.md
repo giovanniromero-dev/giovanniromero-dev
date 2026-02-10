@@ -59,7 +59,7 @@ Hey there! I’m **Giovanni**, a **Full Stack Developer specialized in AI Agents
 
 🤝 I’m always open to collaborating on ambitious AI products and agent-based platforms.
 
-If you’re building something exciting with AI — let’s talk 🚀
+If you’re building something exciting with AI — let’s talk
 
 ---
 
