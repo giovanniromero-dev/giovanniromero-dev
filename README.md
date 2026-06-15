@@ -7,11 +7,13 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <a href="https://giovanniromero.dev"><img src="https://img.shields.io/badge/⎇_WEB-giovanniromero.dev-00FF41?style=for-the-badge&labelColor=1A1A1A&logo=google-chrome&logoColor=00FF41"/></a>
-  <a href="https://www.linkedin.com/in/giovanniromero-dev/"><img src="https://img.shields.io/badge/⎇_IN-giovanniromero--dev-00FF41?style=for-the-badge&labelColor=1A1A1A&logo=linkedin&logoColor=00FF41"/></a>
-  <a href="mailto:contact@giovanniromero.dev"><img src="https://img.shields.io/badge/⎇_MAIL-contact-00FF41?style=for-the-badge&labelColor=1A1A1A&logo=gmail&logoColor=00FF41"/></a>
-</p>
+```
+┌─────────────────────────────────────────────────────────────┐
+│  WEB ⇒ giovanniromero.dev                                   │
+│  IN  ⇒ giovanniromero-dev                                   │
+│  MAIL ⇒ contact@giovanniromero.dev                          │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
