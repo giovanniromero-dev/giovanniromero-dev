@@ -9,11 +9,13 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  WEB ⇒ giovanniromero.dev                                   │
-│  IN  ⇒ giovanniromero-dev                                   │
-│  MAIL ⇒ contact@giovanniromero.dev                          │
+│  WEBSITE    ⇒ giovanniromero.dev                            │
+│  LINKEDIN   ⇒ linkedin.com/in/giovanniromero-dev            │
+│  GMAIL      ⇒ contact@giovanniromero.dev                    │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+**[website](https://giovanniromero.dev)** · **[linkedin](https://www.linkedin.com/in/giovanniromero-dev/)** · **[email](mailto:contact@giovanniromero.dev)**
 
 ---
 
