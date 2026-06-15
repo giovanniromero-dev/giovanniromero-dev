@@ -1,10 +1,10 @@
 ﻿```
-
-
-                           GIOVANNI ROMERO
-              Software Engineer  |  AI Systems Architect
-
-
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                     GIOVANNI ROMERO                          ║
+║            Software Engineer | AI Systems Architect          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
@@ -17,95 +17,105 @@
 
 ```
 $ whoami
-Engineer building production-grade AI architectures.
-Agentic workflows · LLM backends · Distributed systems · Computer vision
+─────────────────────────────────────────────────────────────
+  Engineer building production-grade AI architectures.
+  Agentic workflows · LLM backends · Distributed systems · CV
 
-$ cat focus.ini
-[active]
-agents      = LangGraph, LangChain, MCP, Multi-Agent
-backend     = FastAPI, Node.js, TypeScript, REST, WebSocket
-ml_cv       = TensorFlow, YOLOv8, OpenCV, Deep Learning
-infra       = Docker, PostgreSQL, MongoDB, Prisma
+$ cat ~/focus
+─────────────────────────────────────────────────────────────
+  agents:   LangGraph, LangChain, MCP, Multi-Agent
+  backend:  FastAPI, Node.js, TypeScript, REST, WebSocket
+  ml/cv:    TensorFlow, YOLOv8, OpenCV, Deep Learning
+  infra:    Docker, PostgreSQL, MongoDB, Prisma
 ```
 
 ---
 
-## tech
+```
+$ cat ~/techstack
+─────────────────────────────────────────────────────────────
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,nodejs,express,angular,postgres,mongodb,docker,prisma,firebase,tensorflow,opencv,vite&perline=8" />
 </p>
 
 ```
-langs:    Python · TypeScript · JavaScript
-ai/ml:    LangChain · LangGraph · TensorFlow · YOLOv8 · OpenCV · FAISS · Streamlit
-backend:  FastAPI · Node.js · Express · LangServe · REST · WebSocket
-frontend: React · Angular · Vite
-data:     PostgreSQL · MongoDB · Prisma · Firebase
-infra:    Docker · GitHub Actions
+  langs:    Python · TypeScript · JavaScript
+  ai/ml:    LangChain · LangGraph · TensorFlow · YOLOv8 · OpenCV · FAISS · Streamlit
+  backend:  FastAPI · Node.js · Express · LangServe · REST · WebSocket
+  frontend: React · Angular · Vite
+  data:     PostgreSQL · MongoDB · Prisma · Firebase
+  infra:    Docker · GitHub Actions
 ```
 
 ---
 
-## projects
+```
+$ ls ~/projects/
+─────────────────────────────────────────────────────────────
+```
 
 <details>
-<summary><code>agentic-chatbot</code> — LangChain + LangGraph multi-agent system</summary>
+<summary><code>agentic-chatbot/</code>  — multi-agent reasoning system</summary>
 
 ```
-  tools:  FAISS vector search · Tavily web retrieval · Streamlit UI
-  repo:   https://github.com/giovanniromero-dev/agentic-chatbot
+  tools:  LangChain · LangGraph · FAISS · Tavily · Streamlit
+  └─ https://github.com/giovanniromero-dev/agentic-chatbot
 ```
 </details>
 
 <details>
-<summary><code>clinisight-ai</code> — AI medical insight engine</summary>
+<summary><code>clinisight-ai/</code>  — AI medical insight engine</summary>
 
 ```
-  stack:  FastAPI · MCP · OpenAI · PubMed retrieval
-  repo:   https://github.com/giovanniromero-dev/clinisight-ai
-```
-</details>
-
-<details>
-<summary><code>network-operations-center</code> — Enterprise network monitoring</summary>
-
-```
-  stack:  TypeScript · Prisma · Docker · PostgreSQL/MongoDB
-  repo:   https://github.com/giovanniromero-dev/network-operations-center
+  stack:  FastAPI · MCP · OpenAI · PubMed
+  └─ https://github.com/giovanniromero-dev/clinisight-ai
 ```
 </details>
 
 <details>
-<summary><code>lcel-llm-translator</code> — LLM translation pipeline</summary>
+<summary><code>network-operations-center/</code>  — enterprise monitoring system</summary>
+
+```
+  stack:  TypeScript · Prisma · Docker · PostgreSQL / MongoDB
+  └─ https://github.com/giovanniromero-dev/network-operations-center
+```
+</details>
+
+<details>
+<summary><code>lcel-llm-translator/</code>  — production LLM translation pipeline</summary>
 
 ```
   stack:  LangChain LCEL · Groq LLaMA · FastAPI · LangServe
-  repo:   https://github.com/giovanniromero-dev/lcel-llm-translator
+  └─ https://github.com/giovanniromero-dev/lcel-llm-translator
 ```
 </details>
 
 <details>
-<summary><code>airplane-tracking-with-yolov8</code> — Real-time object detection</summary>
+<summary><code>airplane-tracking-with-yolov8/</code>  — real-time object detection</summary>
 
 ```
-  stack:  YOLOv8 · OpenCV · trajectory analysis
-  repo:   https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8
+  stack:  YOLOv8 · OpenCV · trajectory tracking
+  └─ https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8
 ```
 </details>
 
 <details>
-<summary><code>restful-api-for-article-management</code> — Content management API</summary>
+<summary><code>restful-api-for-article-management/</code>  — content management API</summary>
 
 ```
   stack:  Node.js · Express · MongoDB · Multer
-  repo:   https://github.com/giovanniromero-dev/restful-api-for-article-management
+  └─ https://github.com/giovanniromero-dev/restful-api-for-article-management
 ```
 </details>
 
 ---
 
-## metrics
+```
+$ neofetch
+─────────────────────────────────────────────────────────────
+```
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanniromero-dev&show_icons=true&bg_color=0D0D0D&title_color=00FF41&text_color=33FF77&icon_color=00FF41&border_color=1A1A1A&custom_title=stats"/>
@@ -113,15 +123,15 @@ infra:    Docker · GitHub Actions
 </div>
 
 ```
-status:     online
-uptime:     2026
-languages:  Python · TypeScript · JavaScript
-deploys:    10+ production systems
-repos:      20+ public projects
+  status:     online
+  uptime:     2026
+  languages:  Python · TypeScript · JavaScript
+  deploys:    10+ production systems
+  repos:      20+ public projects
 ```
 
 ---
 
 <p align="center">
-  <sub><code>root@giovanniromero ~ $</code></sub>
+  <code>root@giovanniromero ~ $ █</code>
 </p>
