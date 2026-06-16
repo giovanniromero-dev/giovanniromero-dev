@@ -8,21 +8,20 @@
 ```
 
 <p align="center">
-  <img src="terminal.gif" width="500" alt="terminal animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+architectures;Agentic+workflows+%C2%B7+LLM+backends+%C2%B7+Distributed+systems;LangGraph+%C2%B7+LangChain+%C2%B7+FastAPI+%C2%B7+Docker" alt="typing terminal" />
 </p>
 
+---
+
 ```
-┌─────────────────────────────────────────────────────────┐
-│ [1] WEBSITE    ->  giovanniromero.dev                   │
-│ [2] LINKEDIN   ->  linkedin.com/in/giovanniromero-dev   │
-│ [3] EMAIL      ->  contact@giovanniromero.dev           │
-└─────────────────────────────────────────────────────────┘
+$ contact
+─────────────────────────────────────────────────────────────
 ```
 
 <p align="center">
-  <a href="https://giovanniromero.dev"><sup>[1] WEBSITE</sup></a> ·
-  <a href="https://www.linkedin.com/in/giovanniromero-dev/"><sup>[2] LINKEDIN</sup></a> ·
-  <a href="mailto:contact@giovanniromero.dev"><sup>[3] EMAIL</sup></a>
+  <a href="https://giovanniromero.dev"><code>website</code></a> ·
+  <a href="https://www.linkedin.com/in/giovanniromero-dev/"><code>linkedin</code></a> ·
+  <a href="mailto:contact@giovanniromero.dev"><code>email</code></a>
 </p>
 
 ---
