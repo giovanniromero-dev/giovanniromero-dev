@@ -1,22 +1,28 @@
-﻿```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                     GIOVANNI ROMERO                          ║
-║            Software Engineer | AI Systems Architect          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
 ```
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  [1] WEBSITE    →  giovanniromero.dev                       │
-│  [2] LINKEDIN   →  linkedin.com/in/giovanniromero-dev       │
-│  [3] GMAIL      →  contact@giovanniromero.dev               │
-└─────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                      GIOVANNI ROMERO                       ║
+║          Software Engineer | AI Systems Architect          ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
-  <a href="https://giovanniromero.dev"><sup>[1]</sup></a> <a href="https://www.linkedin.com/in/giovanniromero-dev/"><sup>[2]</sup></a> <a href="mailto:contact@giovanniromero.dev"><sup>[3]</sup></a>
+  <img src="terminal.gif" width="500" alt="terminal animation"/>
+</p>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ [1] WEBSITE    ->  giovanniromero.dev                   │
+│ [2] LINKEDIN   ->  linkedin.com/in/giovanniromero-dev   │
+│ [3] EMAIL      ->  contact@giovanniromero.dev           │
+└─────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <a href="https://giovanniromero.dev"><sup>[1] WEBSITE</sup></a> ·
+  <a href="https://www.linkedin.com/in/giovanniromero-dev/"><sup>[2] LINKEDIN</sup></a> ·
+  <a href="mailto:contact@giovanniromero.dev"><sup>[3] EMAIL</sup></a>
 </p>
 
 ---
@@ -31,7 +37,7 @@ $ cat ~/focus
 ─────────────────────────────────────────────────────────────
   agents:   LangGraph, LangChain, MCP, Multi-Agent
   backend:  FastAPI, Node.js, TypeScript, REST, WebSocket
-  ml/cv:    TensorFlow, YOLOv8, OpenCV, Deep Learning
+  ai/ml:    TensorFlow, YOLOv8, OpenCV, Deep Learning
   infra:    Docker, PostgreSQL, MongoDB, Prisma
 ```
 
@@ -63,7 +69,7 @@ $ ls ~/projects/
 ```
 
 <details>
-<summary><code>agentic-chatbot/</code>  — multi-agent reasoning system</summary>
+<summary><code>agentic-chatbot/</code> — multi-agent reasoning system</summary>
 
 ```
   tools:  LangChain · LangGraph · FAISS · Tavily · Streamlit
@@ -72,7 +78,7 @@ $ ls ~/projects/
 </details>
 
 <details>
-<summary><code>clinisight-ai/</code>  — AI medical insight engine</summary>
+<summary><code>clinisight-ai/</code> — AI medical insight engine</summary>
 
 ```
   stack:  FastAPI · MCP · OpenAI · PubMed
@@ -81,7 +87,7 @@ $ ls ~/projects/
 </details>
 
 <details>
-<summary><code>network-operations-center/</code>  — enterprise monitoring system</summary>
+<summary><code>network-operations-center/</code> — enterprise monitoring system</summary>
 
 ```
   stack:  TypeScript · Prisma · Docker · PostgreSQL / MongoDB
@@ -90,7 +96,7 @@ $ ls ~/projects/
 </details>
 
 <details>
-<summary><code>lcel-llm-translator/</code>  — production LLM translation pipeline</summary>
+<summary><code>lcel-llm-translator/</code> — production LLM translation pipeline</summary>
 
 ```
   stack:  LangChain LCEL · Groq LLaMA · FastAPI · LangServe
@@ -99,7 +105,7 @@ $ ls ~/projects/
 </details>
 
 <details>
-<summary><code>airplane-tracking-with-yolov8/</code>  — real-time object detection</summary>
+<summary><code>airplane-tracking-with-yolov8/</code> — real-time object detection</summary>
 
 ```
   stack:  YOLOv8 · OpenCV · trajectory tracking
@@ -108,7 +114,7 @@ $ ls ~/projects/
 </details>
 
 <details>
-<summary><code>restful-api-for-article-management/</code>  — content management API</summary>
+<summary><code>restful-api-for-article-management/</code> — content management API</summary>
 
 ```
   stack:  Node.js · Express · MongoDB · Multer
@@ -130,7 +136,7 @@ $ neofetch
 
 ```
   status:     online
-  uptime:     2026
+  focus:      shipping AI agents & backend systems
   languages:  Python · TypeScript · JavaScript
   deploys:    10+ production systems
   repos:      20+ public projects
