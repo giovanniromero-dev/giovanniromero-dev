@@ -32,19 +32,12 @@ $ whoami
 ─────────────────────────────────────────────────────────────
   Engineer building production-grade AI architectures.
   Agentic workflows · LLM backends · Distributed systems · CV
-
-$ cat ~/focus
-─────────────────────────────────────────────────────────────
-  agents:   LangGraph, LangChain, MCP, Multi-Agent
-  backend:  FastAPI, Node.js, TypeScript, REST, WebSocket
-  ai/ml:    TensorFlow, YOLOv8, OpenCV, Deep Learning
-  infra:    Docker, PostgreSQL, MongoDB, Prisma
 ```
 
 ---
 
 ```
-$ cat ~/techstack
+$ cat ~/stack.json
 ─────────────────────────────────────────────────────────────
 ```
 
@@ -53,12 +46,13 @@ $ cat ~/techstack
 </p>
 
 ```
-  langs:    Python · TypeScript · JavaScript
-  ai/ml:    LangChain · LangGraph · TensorFlow · YOLOv8 · OpenCV · FAISS · Streamlit
-  backend:  FastAPI · Node.js · Express · LangServe · REST · WebSocket
-  frontend: React · Angular · Vite
-  data:     PostgreSQL · MongoDB · Prisma · Firebase
-  infra:    Docker · GitHub Actions
+  langs:      Python · TypeScript · JavaScript
+  agents:     LangGraph · LangChain · MCP · Multi-Agent
+  ai/ml:      TensorFlow · YOLOv8 · OpenCV · FAISS · Streamlit
+  backend:    FastAPI · Node.js · Express · LangServe · REST · WebSocket
+  frontend:   React · Angular · Vite
+  data:       PostgreSQL · MongoDB · Prisma · Firebase
+  infra:      Docker · GitHub Actions
 ```
 
 ---
@@ -137,7 +131,6 @@ $ neofetch
 ```
   status:     online
   focus:      shipping AI agents & backend systems
-  languages:  Python · TypeScript · JavaScript
   deploys:    10+ production systems
   repos:      20+ public projects
 ```
