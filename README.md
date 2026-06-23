@@ -1,141 +1,56 @@
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                      GIOVANNI ROMERO                       ║
-║          Software Engineer | AI Systems Architect          ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+# Giovanni Romero
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+architectures;Agentic+workflows+%C2%B7+LLM+backends+%C2%B7+Distributed+systems;LangGraph+%C2%B7+LangChain+%C2%B7+FastAPI+%C2%B7+Docker" alt="typing terminal" />
-</p>
+**Full Stack Developer specializing in Offensive Security**  
+**CPTS path @ HackTheBox | OSINT automation | Secure coding | AI for security**
 
----
+I build software the full-stack way, then apply that engineering base to security work: reconnaissance tooling, public-source intelligence, secure APIs, automation, and defensive attack-surface analysis.
 
-```
-$ contact
-─────────────────────────────────────────────────────────────
+## Current Positioning
+
+```text
+Identity: Full Stack Developer specializing in Offensive Security
+Primary track: CPTS path @ HackTheBox
+Security focus: OSINT, penetration testing, OWASP, secure coding, network intelligence
+AI role: tool for security workflows, not the headline identity
 ```
 
-<p align="center">
-  <a href="https://giovanniromero.dev"><code>website</code></a> ·
-  <a href="https://www.linkedin.com/in/giovanniromero-dev/"><code>linkedin</code></a> ·
-  <a href="mailto:contact@giovanniromero.dev"><code>email</code></a>
-</p>
+## Security Pillars
 
----
+1. **Full Stack Engineering** - Python, TypeScript, JavaScript, React, FastAPI, Node.js, Express, databases, Docker, APIs.
+2. **Offensive Security / Pentesting** - CPTS path, HackTheBox practice, OWASP, reconnaissance, attack-surface thinking, secure implementation review.
+3. **AI for Security** - OSINT agents, LLM-assisted reporting, LangGraph/LangChain pipelines, retrieval, automation, and analyst workflows.
+4. **Computer Vision for Security** - face detection and aircraft tracking as visual-intelligence projects for monitoring, detection, and situational-awareness use cases.
 
-```
-$ whoami
-─────────────────────────────────────────────────────────────
-  Engineer building production-grade AI architectures.
-  Agentic workflows · LLM backends · Distributed systems · CV
-```
+## Featured Work
 
----
+| Project | Security angle | Stack |
+|---|---|---|
+| [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Passive OSINT reconnaissance, public-source investigation, attack-surface review, structured reporting | Python, LangGraph, Playwright |
+| [face-detection-with-face-api.js](https://github.com/giovanniromero-dev/face-detection-with-face-api.js) | Browser-based face detection for visual security workflows and identity/surveillance prototypes | JavaScript, face-api.js |
+| [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | Object detection and tracking for airspace/security situational awareness | Python, YOLOv8, OpenCV |
+| [ip-info-finder](https://github.com/giovanniromero-dev/ip-info-finder) | IP geolocation, ASN and network intelligence for recon workflows | JavaScript, external APIs |
+| [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | Monitoring, alerting, operational visibility and incident-oriented infrastructure | TypeScript, Node.js, Prisma, Docker |
+| [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Signed webhook handling and event notification pipeline | TypeScript, Express, SHA256 verification |
 
-```
-$ cat ~/stack.json
-─────────────────────────────────────────────────────────────
-```
+## Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,nodejs,express,angular,postgres,mongodb,docker,prisma,firebase,tensorflow,opencv,vite&perline=8" />
-</p>
-
-```
-  langs:      Python · TypeScript · JavaScript
-  agents:     LangGraph · LangChain · MCP · Multi-Agent
-  ai/ml:      TensorFlow · YOLOv8 · OpenCV · FAISS · Streamlit
-  backend:    FastAPI · Node.js · Express · LangServe · REST · WebSocket
-  frontend:   React · Angular · Vite
-  data:       PostgreSQL · MongoDB · Prisma · Firebase
-  infra:      Docker · GitHub Actions
+```text
+Languages:     Python, TypeScript, JavaScript, Solidity
+Security:      OSINT, OWASP, recon, secure coding, network intelligence, passive analysis
+Backend:       FastAPI, Node.js, Express, REST APIs, WebSocket, LangServe
+Frontend:      React, Angular, Vite, HTML/CSS
+AI tooling:    LangGraph, LangChain, LLM pipelines, FAISS, Streamlit, MCP
+Data/Infra:    PostgreSQL, MongoDB, Prisma, Firebase, Docker, GitHub Actions
+CV/ML:         YOLOv8, OpenCV, TensorFlow, face-api.js
 ```
 
----
+## Current Focus
 
-```
-$ ls ~/projects/
-─────────────────────────────────────────────────────────────
-```
+- Building practical security tooling instead of generic automation demos.
+- Strengthening offensive-security fundamentals through the CPTS path @ HackTheBox.
+- Turning full-stack projects into security-aware systems: authentication, logging, validation, signed webhooks, monitoring, and defensive reporting.
+- Applying AI where it helps security work: OSINT agents, report synthesis, triage, enrichment, and repeatable analyst pipelines.
 
-<details>
-<summary><code>agentic-chatbot/</code> — multi-agent reasoning system</summary>
+## Keywords
 
-```
-  tools:  LangChain · LangGraph · FAISS · Tavily · Streamlit
-  └─ https://github.com/giovanniromero-dev/agentic-chatbot
-```
-</details>
-
-<details>
-<summary><code>clinisight-ai/</code> — AI medical insight engine</summary>
-
-```
-  stack:  FastAPI · MCP · OpenAI · PubMed
-  └─ https://github.com/giovanniromero-dev/clinisight-ai
-```
-</details>
-
-<details>
-<summary><code>network-operations-center/</code> — enterprise monitoring system</summary>
-
-```
-  stack:  TypeScript · Prisma · Docker · PostgreSQL / MongoDB
-  └─ https://github.com/giovanniromero-dev/network-operations-center
-```
-</details>
-
-<details>
-<summary><code>lcel-llm-translator/</code> — production LLM translation pipeline</summary>
-
-```
-  stack:  LangChain LCEL · Groq LLaMA · FastAPI · LangServe
-  └─ https://github.com/giovanniromero-dev/lcel-llm-translator
-```
-</details>
-
-<details>
-<summary><code>airplane-tracking-with-yolov8/</code> — real-time object detection</summary>
-
-```
-  stack:  YOLOv8 · OpenCV · trajectory tracking
-  └─ https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8
-```
-</details>
-
-<details>
-<summary><code>restful-api-for-article-management/</code> — content management API</summary>
-
-```
-  stack:  Node.js · Express · MongoDB · Multer
-  └─ https://github.com/giovanniromero-dev/restful-api-for-article-management
-```
-</details>
-
----
-
-```
-$ neofetch
-─────────────────────────────────────────────────────────────
-```
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanniromero-dev&show_icons=true&bg_color=0D0D0D&title_color=00FF41&text_color=33FF77&icon_color=00FF41&border_color=1A1A1A&custom_title=stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniromero-dev&layout=compact&bg_color=0D0D0D&title_color=00FF41&text_color=33FF77&border_color=1A1A1A&custom_title=languages"/>
-</div>
-
-```
-  status:     online
-  focus:      shipping AI agents & backend systems
-  deploys:    10+ production systems
-  repos:      20+ public projects
-```
-
----
-
-<p align="center">
-  <code>root@giovanniromero ~ $ █</code>
-</p>
+`Cybersecurity` `Penetration Testing` `Offensive Security` `OSINT` `CPTS` `HackTheBox` `OWASP` `Secure Coding` `Python` `TypeScript` `Full Stack Developer` `AI security tools` `Computer Vision Security`
