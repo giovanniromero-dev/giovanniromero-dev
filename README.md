@@ -1,42 +1,43 @@
 ```text
-+============================================================================+
-|                                                                            |
-|   G I O V A N N I   R O M E R O                                            |
-|                                                                            |
-|   FULL STACK DEVELOPER  ->  CYBERSECURITY SPECIALIST                       |
-|   OFFENSIVE SECURITY | SECURE CODING | OSINT | NETWORK / APP SECURITY      |
-|                                                                            |
-|   TRACK: CPTS path @ HackTheBox                                             |
-|   MODE : build systems -> break assumptions -> understand risk -> harden    |
-|                                                                            |
-+============================================================================+
++==================================================================================+
+|                                                                                  |
+|   G I O V A N N I   R O M E R O                                                  |
+|                                                                                  |
+|   FULL STACK DEVELOPER  //  CYBERSECURITY SPECIALIST  //  AI SECURITY TOOLING    |
+|                                                                                  |
+|   WEB SECURITY | OSINT | SECURE ENGINEERING | AUTOMATION | INTELLIGENCE SYSTEMS  |
+|                                                                                  |
++==================================================================================+
 ```
 
 ```console
 root@giovanni:~$ whoami
-Full Stack Developer specializing in Cybersecurity.
-Offensive-security direction, full-stack foundation, practical tooling mindset.
+Full Stack Developer specialized in cybersecurity services, AI-assisted
+security tooling, OSINT automation, secure web systems, and practical
+security engineering.
 
-root@giovanni:~$ cat /etc/operator.conf
-identity     = "full_stack_dev_specializing_in_cybersecurity"
-track        = "CPTS_path_HackTheBox"
-focus        = "offensive_security secure_coding osint network_security appsec"
-ai_role      = "security_workflow_accelerator"
-style        = "old_terminal_cybersec"
+root@giovanni:~$ cat /etc/profile
+mode              = "build systems, understand attack paths, reduce risk"
+primary_focus     = "secure full-stack products + cybersecurity workflows"
+security_scope    = "web apps, APIs, infrastructure, identity, code, reporting"
+ai_scope          = "agents, LLM pipelines, analyst automation, computer vision"
+operating_style   = "terminal-first, evidence-driven, production-minded"
 ```
 
 ## ./signal
 
 ```text
-[ACTIVE] Offensive Security / Pentesting
-[ACTIVE] Application Security / Secure Coding
-[ACTIVE] Network Intelligence / Monitoring
-[ACTIVE] OSINT & Recon Automation
-[ACTIVE] AI-assisted Security Workflows
-[ACTIVE] Computer Vision for Security
+[ACTIVE] Full Stack Engineering
+[ACTIVE] Web Application Security
+[ACTIVE] API Security and Secure Backend Design
+[ACTIVE] OSINT and Passive Reconnaissance Automation
+[ACTIVE] Vulnerability Assessment and Remediation Support
+[ACTIVE] AI Agents for Security Workflows
+[ACTIVE] Computer Vision and Visual Intelligence
+[ACTIVE] Web3 / Solidity Security Foundations
 ```
 
-## ./featured_ops
+## ./featured_work
 
 ```console
 giovanni@cyberdeck:~$ ls -la ~/ops/high-signal
@@ -44,58 +45,72 @@ giovanni@cyberdeck:~$ ls -la ~/ops/high-signal
 
 | Priority | Repository | Mission |
 |---:|---|---|
-| 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Passive OSINT reconnaissance, public-source investigation, attack-surface review, structured security reporting. |
-| 02 | [face-detection-with-face-api.js](https://github.com/giovanniromero-dev/face-detection-with-face-api.js) | Browser-based visual intelligence for security monitoring and identity workflows. |
-| 03 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | Object detection and tracking for airspace/security situational awareness. |
-| 04 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | Security-aware monitoring, alerting, incident visibility and operational logging. |
-| 05 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Secure webhook relay with SHA256 verification and repository event monitoring. |
-| 06 | [ip-info-finder](https://github.com/giovanniromero-dev/ip-info-finder) | IP geolocation, ASN lookup, network intelligence and recon support. |
+| 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Passive OSINT reconnaissance agent with LangGraph, DeepSeek, Playwright, public-source tooling, and structured security reports. |
+| 02 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | TypeScript NOC platform for monitoring, alerting, incident visibility, and operational logging. |
+| 03 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Secure GitHub webhook relay with SHA256 signature verification and Discord event notifications. |
+| 04 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | YOLOv8 aircraft detection and tracking prototype for visual intelligence and situational-awareness workflows. |
+| 05 | [ip-info-finder](https://github.com/giovanniromero-dev/ip-info-finder) | Browser-based IP intelligence, geolocation, ASN lookup, and recon support. |
+| 06 | [face-detection-with-face-api.js](https://github.com/giovanniromero-dev/face-detection-with-face-api.js) | Browser-based face detection prototype for identity and real-time visual analysis workflows. |
+| 07 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph fundamentals applied to ReAct agents, tool orchestration, streaming, debugging, and security automation. |
+| 08 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LCEL and LangServe workflow for structured language processing, multilingual reporting, and analyst-facing LLM pipelines. |
 
-## ./cybersec_map
+## ./security_map
 
 ```console
-giovanni@cyberdeck:~$ tree /sec
-/sec
+giovanni@cyberdeck:~$ tree /security
+/security
 |-- offensive_security
-|   |-- CPTS_path_HackTheBox
-|   |-- OWASP_Top_10
-|   |-- reconnaissance
-|   |-- attack_surface_analysis
-|   `-- web_exploitation_fundamentals
+|   |-- penetration_testing_process
+|   |-- footprinting_and_information_gathering
+|   |-- network_enumeration
+|   |-- vulnerability_assessment
+|   |-- shells_payloads_and_file_transfers
+|   |-- web_proxies_and_web_app_testing
+|   |-- ffuf_content_discovery
+|   |-- brute_force_testing
+|   |-- sql_injection_and_sqlmap
+|   |-- xss_file_inclusion_file_uploads
+|   |-- command_injection
+|   |-- common_services_and_applications
+|   |-- active_directory_enumeration
+|   |-- privilege_escalation_linux_windows
+|   |-- pivoting_tunneling_port_forwarding
+|   `-- documentation_and_reporting
 |
 |-- secure_engineering
-|   |-- authentication
-|   |-- input_validation
-|   |-- API_hardening
+|   |-- authentication_and_authorization
+|   |-- secure_api_design
+|   |-- input_validation_and_output_encoding
 |   |-- signed_webhooks
-|   |-- logging
-|   `-- least_privilege
+|   |-- logging_and_audit_trails
+|   |-- least_privilege
+|   |-- dependency_risk
+|   `-- remediation_validation
 |
-|-- network_security
-|   |-- IP_ASN_intelligence
-|   |-- monitoring
-|   |-- alerting
-|   |-- incident_visibility
-|   `-- operational_logging
-|
-|-- osint_automation
-|   |-- passive_recon
+|-- osint_and_recon
+|   |-- passive_reconnaissance
 |   |-- public_source_investigation
-|   |-- enrichment
-|   |-- structured_reporting
-|   `-- repeatable_workflows
+|   |-- dns_whois_tls_http_metadata
+|   |-- username_and_github_recon
+|   |-- wayback_and_archive_research
+|   |-- attack_surface_review
+|   `-- structured_reporting
 |
-|-- ai_for_security
-|   |-- OSINT_agents
-|   |-- LLM_triage
-|   |-- LangGraph_pipelines
-|   |-- security_reporting
-|   `-- analyst_automation
+|-- ai_security_tooling
+|   |-- langgraph_agents
+|   |-- langchain_lcel
+|   |-- llm_tool_routing
+|   |-- report_generation
+|   |-- analyst_q_and_a
+|   |-- rag_and_vector_search
+|   |-- browser_automation
+|   `-- mcp_experiments
 |
 `-- visual_intelligence
+    |-- yolov8_object_detection
+    |-- opencv_video_processing
     |-- face_detection
-    |-- object_tracking
-    |-- security_monitoring
+    |-- tracking_pipelines
     `-- situational_awareness
 ```
 
@@ -103,63 +118,103 @@ giovanni@cyberdeck:~$ tree /sec
 
 ```ini
 [languages]
-python=true
-typescript=true
-javascript=true
-solidity=true
+python=security_tooling, automation, ai_agents
+typescript=backend_services, monitoring, typed_apis
+javascript=frontend, nodejs, browser_tooling
+solidity=web3_security_foundations
+sql=data_modeling, reporting, persistence
 
-[security]
-offensive_security=active_learning
-application_security=active
-secure_coding=active
-osint=active
-network_intelligence=active
-threat_intelligence=active
+[frontend]
+react=true
+nextjs=true
+angular=true
+vite=true
+seo=true
+responsive_ui=true
+accessibility=true
 
-[engineering]
-fastapi=true
+[backend]
 nodejs=true
 express=true
-react=true
-angular=true
-postgresql=true
+fastapi=true
+rest_apis=true
 mongodb=true
+postgresql=true
+firebase=true
+auth_flows=true
+webhooks=true
 docker=true
 github_actions=true
 
-[ai_security]
+[cybersecurity]
+web_application_security=true
+api_security=true
+secure_code_review=true
+osint=true
+network_recon=true
+active_directory_basics=true
+vulnerability_assessment=true
+reporting_and_remediation=true
+
+[ai_and_data]
 langgraph=true
 langchain=true
-llm_pipelines=true
+lcel=true
+openai_compatible_apis=true
+deepseek=true
 faiss=true
-mcp=true
 streamlit=true
+jupyter=true
+playwright=true
 
-[visual_intelligence]
+[computer_vision]
 yolov8=true
 opencv=true
 tensorflow=true
 face_api_js=true
+ffmpeg=true
+
+[web3]
+solidity=true
+erc20=true
+erc721=true
+erc1155=true
+staking_contracts=true
+nft_marketplaces=true
 ```
 
-## ./objectives.log
+## ./services_vector
 
 ```text
-[+] Build toward deep cybersecurity expertise with full-stack engineering depth
-[+] Strengthen offensive-security fundamentals through CPTS @ HackTheBox
-[+] Ship practical security tools, not generic automation demos
-[+] Apply secure coding to APIs, auth flows, webhooks, logging and backend systems
-[+] Connect OSINT, recon, monitoring and reporting into analyst workflows
-[+] Use AI only where it improves security work: triage, enrichment and reporting
+web_application_pentesting      -> authorized testing, evidence, remediation guidance
+api_security_assessment         -> auth, access control, input handling, business logic
+external_attack_surface_review  -> passive recon, exposure mapping, prioritized findings
+vulnerability_assessment        -> triage, risk context, practical remediation
+secure_code_review              -> risky patterns, auth flaws, validation issues
+full_stack_security_work        -> secure products, dashboards, internal tools
+reporting_and_validation        -> clean findings, retest support, stakeholder-ready output
 ```
 
-## ./keywords
+## ./current_ops
 
-```text
-Cybersecurity | Offensive Security | Penetration Testing | CPTS | HackTheBox
-OWASP | Secure Coding | Application Security | Network Security | OSINT
-Threat Intelligence | Python | TypeScript | Full Stack Developer
-AI Security Tools | Computer Vision Security | Visual Intelligence
+```console
+root@giovanni:~$ tail -f /var/log/current_ops.log
+[+] Building OSINT Agent as a practical AI-assisted reconnaissance workflow
+[+] Strengthening offensive-security methodology through structured labs and reporting
+[+] Turning full-stack experience into security-focused products and internal systems
+[+] Applying secure coding to APIs, auth flows, webhooks, monitoring, and data handling
+[+] Connecting AI agents, browser automation, OSINT tools, and Markdown reporting
+[+] Keeping the work useful: reproducible, documented, scoped, and production-aware
+```
+
+## ./contact
+
+```console
+root@giovanni:~$ ./connect --target professional
+site      : https://giovanniromero.dev
+linkedin  : https://www.linkedin.com/in/giovannideveloper/
+x         : https://x.com/giovanni_dev_
+email     : contact@giovanniromero.dev
 ```
 
 ```console
