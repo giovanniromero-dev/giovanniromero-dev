@@ -115,14 +115,12 @@ giovanniromero@dev:~$ ls ~/repos --focus agentic-ai
 
 | Priority | Repository | Why it matters for this profile |
 |---:|---|---|
-| 01 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | Strongest alignment: LangGraph agents, ReAct patterns, tool orchestration, streaming, debugging, and graph-based control flow. |
-| 02 | [agentic-chatbot](https://github.com/giovanniromero-dev/agentic-chatbot) | Agentic chatbot scaffold with LangGraph/LangChain orchestration, RAG retrieval, Tavily search, FAISS memory, and assistant workflows. |
-| 03 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Research automation agent with LangGraph, DeepSeek, Playwright, public web data collection, tool use, and structured reports. |
-| 04 | [clinisight-ai](https://github.com/giovanniromero-dev/clinisight-ai) | MCP-style AI application with FastAPI, symptom extraction, PubMed retrieval, structured summaries, and API-driven workflows. |
-| 05 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LangChain / LCEL workflow showing structured language processing, LangServe patterns, and LLM pipeline design. |
-| 06 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | Full-stack product signal: TypeScript platform, dashboards, alerts, operational visibility, and API-driven workflows. |
-| 07 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Backend/API integration signal: signed webhooks, event routing, Discord notifications, and security-aware API boundaries. |
-| 08 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | AI engineering support signal: computer vision prototype for object detection, tracking, and visual intelligence workflows. |
+| 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Research automation agent with Python, LangGraph, DeepSeek, Playwright, tool calling, public web data collection, and structured reporting workflows. |
+| 02 | [clinisight-ai](https://github.com/giovanniromero-dev/clinisight-ai) | AI medical insight prototype using FastAPI and MCP-style architecture for symptom extraction, PubMed retrieval, structured summaries, and API-driven workflows. |
+| 03 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph foundations for AI agents: ReAct patterns, tool orchestration, state graphs, streaming, debugging, and agentic workflow control. |
+| 04 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LangChain LCEL and LangServe workflow for structured LLM pipelines, translation automation, API delivery, and full-stack AI integration patterns. |
+| 05 | [agentic-chatbot](https://github.com/giovanniromero-dev/agentic-chatbot) | Agentic chatbot scaffold for LangGraph/LangChain tool orchestration, RAG retrieval, Tavily search, FAISS memory, and full-stack AI assistant experiments. |
+| 06 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | Computer vision AI prototype for YOLOv8 object detection, tracking, video analysis, and visual intelligence workflows. |
 
 ## ./agentic_system_design
 
