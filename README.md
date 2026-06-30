@@ -3,125 +3,119 @@
 |                                                                                  |
 |   G I O V A N N I   R O M E R O                                                  |
 |                                                                                  |
-|   FULL STACK DEVELOPER  //  CYBERSECURITY SPECIALIST  //  AI SECURITY TOOLING    |
+|   FULL STACK DEVELOPER  //  AI ENGINEER  //  CYBERSECURITY ENTHUSIAST            |
 |                                                                                  |
-|   WEB SECURITY | OSINT | SECURE ENGINEERING | AUTOMATION | INTELLIGENCE SYSTEMS  |
+|   AI AGENTS | AGENTIC SYSTEMS | AUTOMATION | FULL-STACK PRODUCTS | SECURE APIs    |
 |                                                                                  |
 +==================================================================================+
 ```
 
 ```console
 root@giovanni:~$ whoami
-Full Stack Developer specialized in cybersecurity services, AI-assisted
-security tooling, OSINT automation, secure web systems, and practical
-security engineering.
+Full Stack Developer & AI Engineer · Building AI Agents & Agentic Systems ·
+Cybersecurity Enthusiast.
+
+I build practical AI agents, MCP integrations, LangGraph/LangChain workflows,
+automations, APIs, dashboards, and full-stack products with security-aware
+engineering habits.
 
 root@giovanni:~$ cat /etc/profile
-mode              = "build systems, understand attack paths, reduce risk"
-primary_focus     = "secure full-stack products + cybersecurity workflows"
-security_scope    = "web apps, APIs, infrastructure, identity, code, reporting"
-ai_scope          = "agents, LLM pipelines, analyst automation, computer vision"
-operating_style   = "terminal-first, evidence-driven, production-minded"
+primary_focus     = "AI agents, agentic systems, automation, full-stack AI"
+product_scope     = "web apps, APIs, dashboards, workflows, integrations"
+ai_scope          = "MCP, LangGraph, LangChain, RAG, tool calling, orchestration"
+security_mindset  = "auth boundaries, data handling, API safety, observability"
+operating_style   = "practical, documented, production-minded, implementation-first"
 ```
 
 ## ./signal
 
 ```text
 [ACTIVE] Full Stack Engineering
-[ACTIVE] Web Application Security
-[ACTIVE] API Security and Secure Backend Design
-[ACTIVE] OSINT and Passive Reconnaissance Automation
-[ACTIVE] Vulnerability Assessment and Remediation Support
-[ACTIVE] AI Agents for Security Workflows
-[ACTIVE] Computer Vision and Visual Intelligence
-[ACTIVE] Web3 / Solidity Security Foundations
+[ACTIVE] AI Agent Development
+[ACTIVE] Agentic Systems and Workflow Orchestration
+[ACTIVE] MCP Server and Tool Integration
+[ACTIVE] LangGraph / LangChain Automation
+[ACTIVE] RAG and Knowledge Assistant Builds
+[ACTIVE] API Integrations and Internal Tools
+[ACTIVE] Security-Aware Product Engineering
 ```
 
 ## ./featured_work
 
 ```console
-giovanni@cyberdeck:~$ ls -la ~/ops/high-signal
+giovanni@workstation:~$ ls -la ~/builds/high-signal
 ```
 
 | Priority | Repository | Mission |
 |---:|---|---|
-| 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Passive OSINT reconnaissance agent with LangGraph, DeepSeek, Playwright, public-source tooling, and structured security reports. |
-| 02 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | TypeScript NOC platform for monitoring, alerting, incident visibility, and operational logging. |
-| 03 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Secure GitHub webhook relay with SHA256 signature verification and Discord event notifications. |
-| 04 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | YOLOv8 aircraft detection and tracking prototype for visual intelligence and situational-awareness workflows. |
-| 05 | [ip-info-finder](https://github.com/giovanniromero-dev/ip-info-finder) | Browser-based IP intelligence, geolocation, ASN lookup, and recon support. |
-| 06 | [face-detection-with-face-api.js](https://github.com/giovanniromero-dev/face-detection-with-face-api.js) | Browser-based face detection prototype for identity and real-time visual analysis workflows. |
-| 07 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph fundamentals applied to ReAct agents, tool orchestration, streaming, debugging, and security automation. |
-| 08 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LCEL and LangServe workflow for structured language processing, multilingual reporting, and analyst-facing LLM pipelines. |
+| 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Research automation agent with LangGraph, DeepSeek, Playwright, public-source data collection, and structured reports. |
+| 02 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph fundamentals applied to ReAct agents, tool orchestration, streaming, debugging, and workflow control. |
+| 03 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LCEL and LangServe workflow for structured language processing, multilingual output, and LLM pipelines. |
+| 04 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | TypeScript platform for monitoring, alerting, operational visibility, and production-style dashboards. |
+| 05 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | GitHub webhook relay with SHA256 signature verification, Discord notifications, and API boundary handling. |
+| 06 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | YOLOv8 aircraft detection and tracking prototype for visual intelligence workflows. |
+| 07 | [ip-info-finder](https://github.com/giovanniromero-dev/ip-info-finder) | Browser-based IP intelligence, geolocation, ASN lookup, and public data enrichment. |
+| 08 | [face-detection-with-face-api.js](https://github.com/giovanniromero-dev/face-detection-with-face-api.js) | Browser-based face detection prototype for real-time visual analysis workflows. |
 
-## ./security_map
+## ./ai_engineering_map
 
 ```console
-giovanni@cyberdeck:~$ tree /security
-/security
-|-- offensive_security
-|   |-- penetration_testing_process
-|   |-- footprinting_and_information_gathering
-|   |-- network_enumeration
-|   |-- vulnerability_assessment
-|   |-- shells_payloads_and_file_transfers
-|   |-- web_proxies_and_web_app_testing
-|   |-- ffuf_content_discovery
-|   |-- brute_force_testing
-|   |-- sql_injection_and_sqlmap
-|   |-- xss_file_inclusion_file_uploads
-|   |-- command_injection
-|   |-- common_services_and_applications
-|   |-- active_directory_enumeration
-|   |-- privilege_escalation_linux_windows
-|   |-- pivoting_tunneling_port_forwarding
-|   `-- documentation_and_reporting
+giovanni@workstation:~$ tree /ai-engineering
+/ai-engineering
+|-- ai_agents
+|   |-- goal_definition
+|   |-- tool_calling
+|   |-- memory_and_state
+|   |-- human_in_the_loop
+|   |-- evaluation_loops
+|   `-- production_handoff
 |
-|-- secure_engineering
-|   |-- authentication_and_authorization
-|   |-- secure_api_design
-|   |-- input_validation_and_output_encoding
-|   |-- signed_webhooks
-|   |-- logging_and_audit_trails
-|   |-- least_privilege
-|   |-- dependency_risk
-|   `-- remediation_validation
-|
-|-- osint_and_recon
-|   |-- passive_reconnaissance
-|   |-- public_source_investigation
-|   |-- dns_whois_tls_http_metadata
-|   |-- username_and_github_recon
-|   |-- wayback_and_archive_research
-|   |-- attack_surface_review
-|   `-- structured_reporting
-|
-|-- ai_security_tooling
-|   |-- langgraph_agents
+|-- agentic_systems
+|   |-- langgraph_workflows
 |   |-- langchain_lcel
-|   |-- llm_tool_routing
-|   |-- report_generation
-|   |-- analyst_q_and_a
-|   |-- rag_and_vector_search
-|   |-- browser_automation
-|   `-- mcp_experiments
+|   |-- multi_step_orchestration
+|   |-- retry_and_fallback_paths
+|   |-- logging_and_observability
+|   `-- workflow_debugging
 |
-`-- visual_intelligence
-    |-- yolov8_object_detection
-    |-- opencv_video_processing
-    |-- face_detection
-    |-- tracking_pipelines
-    `-- situational_awareness
+|-- mcp_and_tools
+|   |-- mcp_server_design
+|   |-- tool_schema_definition
+|   |-- permission_boundaries
+|   |-- api_connector_design
+|   `-- safe_tool_execution
+|
+|-- rag_and_knowledge
+|   |-- document_ingestion
+|   |-- embeddings
+|   |-- retrieval_pipelines
+|   |-- grounded_answers
+|   `-- source_traceability
+|
+|-- full_stack_ai
+|   |-- nextjs_interfaces
+|   |-- backend_apis
+|   |-- auth_and_roles
+|   |-- database_models
+|   |-- dashboards
+|   `-- deployment_notes
+|
+`-- security_aware_engineering
+    |-- authentication_and_authorization
+    |-- data_handling
+    |-- api_boundaries
+    |-- signed_webhooks
+    |-- secrets_management
+    `-- audit_logs
 ```
 
 ## ./stack.ini
 
 ```ini
 [languages]
-python=security_tooling, automation, ai_agents
-typescript=backend_services, monitoring, typed_apis
+python=ai_agents, automation, backend_services
+typescript=full_stack_apps, typed_apis, dashboards
 javascript=frontend, nodejs, browser_tooling
-solidity=web3_security_foundations
 sql=data_modeling, reporting, persistence
 
 [frontend]
@@ -129,9 +123,9 @@ react=true
 nextjs=true
 angular=true
 vite=true
-seo=true
 responsive_ui=true
 accessibility=true
+seo=true
 
 [backend]
 nodejs=true
@@ -146,65 +140,58 @@ webhooks=true
 docker=true
 github_actions=true
 
-[cybersecurity]
-web_application_security=true
-api_security=true
-secure_code_review=true
-osint=true
-network_recon=true
-active_directory_basics=true
-vulnerability_assessment=true
-reporting_and_remediation=true
-
-[ai_and_data]
+[ai_engineering]
+openai_compatible_apis=true
+mcp=true
 langgraph=true
 langchain=true
 lcel=true
-openai_compatible_apis=true
-deepseek=true
+rag=true
 faiss=true
-streamlit=true
-jupyter=true
+tool_calling=true
+agent_orchestration=true
 playwright=true
 
-[computer_vision]
-yolov8=true
-opencv=true
-tensorflow=true
-face_api_js=true
-ffmpeg=true
+[automation]
+business_workflows=true
+content_operations=true
+research_agents=true
+api_integrations=true
+dashboards=true
+report_generation=true
 
-[web3]
-solidity=true
-erc20=true
-erc721=true
-erc1155=true
-staking_contracts=true
-nft_marketplaces=true
+[security_aware_engineering]
+secure_api_design=true
+auth_boundaries=true
+input_validation=true
+signed_webhooks=true
+logging_and_audit_trails=true
+least_privilege=true
+secrets_management=true
 ```
 
 ## ./services_vector
 
 ```text
-web_application_pentesting      -> authorized testing, evidence, remediation guidance
-api_security_assessment         -> auth, access control, input handling, business logic
-external_attack_surface_review  -> passive recon, exposure mapping, prioritized findings
-vulnerability_assessment        -> triage, risk context, practical remediation
-secure_code_review              -> risky patterns, auth flaws, validation issues
-full_stack_security_work        -> secure products, dashboards, internal tools
-reporting_and_validation        -> clean findings, retest support, stakeholder-ready output
+ai_agent_development             -> scoped agent workflows, tools, state, handoff
+mcp_server_tool_integration      -> structured tool access, schemas, permissions
+langgraph_langchain_workflows    -> multi-step agentic systems, routing, retries
+rag_knowledge_assistants         -> ingestion, retrieval, grounded answers, sources
+full_stack_ai_features           -> UI, API, database, auth, deployment path
+business_automation              -> repeatable workflows, integrations, dashboards
+security_aware_implementation    -> safer APIs, data boundaries, logs, secrets
 ```
 
 ## ./current_ops
 
 ```console
 root@giovanni:~$ tail -f /var/log/current_ops.log
-[+] Building OSINT Agent as a practical AI-assisted reconnaissance workflow
-[+] Strengthening offensive-security methodology through structured labs and reporting
-[+] Turning full-stack experience into security-focused products and internal systems
-[+] Applying secure coding to APIs, auth flows, webhooks, monitoring, and data handling
-[+] Connecting AI agents, browser automation, OSINT tools, and Markdown reporting
-[+] Keeping the work useful: reproducible, documented, scoped, and production-aware
+[+] Building AI agents that connect tools, APIs, data, and useful interfaces
+[+] Studying MCP, LangGraph, LangChain, and agentic AI implementation patterns
+[+] Turning full-stack experience into AI-enabled products and internal systems
+[+] Designing automations with clear scope, review points, and production handoff
+[+] Applying cybersecurity fundamentals to auth, data handling, APIs, and logs
+[+] Keeping the work practical: documented, maintainable, scoped, and shippable
 ```
 
 ## ./contact
