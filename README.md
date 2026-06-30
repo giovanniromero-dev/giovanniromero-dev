@@ -123,6 +123,7 @@ giovanniromero@dev:~$ ls ~/repos --focus agentic-ai
 | 06 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | Full-stack product signal: TypeScript platform, dashboards, alerts, operational visibility, and API-driven workflows. |
 | 07 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Backend/API integration signal: signed webhooks, event routing, Discord notifications, and security-aware API boundaries. |
 | 08 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | AI engineering support signal: computer vision prototype for object detection, tracking, and visual intelligence workflows. |
+
 ## ./agentic_system_design
 
 ```text
