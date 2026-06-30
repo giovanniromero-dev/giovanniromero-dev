@@ -3,201 +3,174 @@
 |                                                                                  |
 |   G I O V A N N I   R O M E R O                                                  |
 |                                                                                  |
-|   FULL STACK DEVELOPER  //  AI ENGINEER  //  CYBERSECURITY ENTHUSIAST            |
+|   FULL STACK DEVELOPER  //  AI ENGINEER                                          |
 |                                                                                  |
-|   AI AGENTS | AGENTIC SYSTEMS | AUTOMATION | FULL-STACK PRODUCTS | SECURE APIs    |
+|   LANGGRAPH | MCP | LANGCHAIN | RAG | AI AGENTS | AUTOMATION | FULL-STACK AI      |
 |                                                                                  |
 +==================================================================================+
 ```
 
 ```console
-root@giovanni:~$ whoami
+giovanni@agent-runtime:~$ whoami
 Full Stack Developer & AI Engineer · Building AI Agents & Agentic Systems ·
 Cybersecurity Enthusiast.
 
-I build practical AI agents, MCP integrations, LangGraph/LangChain workflows,
-automations, APIs, dashboards, and full-stack products with security-aware
-engineering habits.
-
-root@giovanni:~$ cat /etc/profile
-primary_focus     = "AI agents, agentic systems, automation, full-stack AI"
-product_scope     = "web apps, APIs, dashboards, workflows, integrations"
-ai_scope          = "MCP, LangGraph, LangChain, RAG, tool calling, orchestration"
-security_mindset  = "auth boundaries, data handling, API safety, observability"
-operating_style   = "practical, documented, production-minded, implementation-first"
+giovanni@agent-runtime:~$ current_focus
+> LangGraph state machines
+> MCP servers and tool integrations
+> LangChain / LCEL workflows
+> RAG and knowledge assistants
+> Full-stack AI products with APIs, dashboards, auth, databases, and deployment
+> Security-aware boundaries for tools, data, permissions, logs, and secrets
 ```
 
-## ./signal
+## ./agent_graph
+
+```mermaid
+flowchart LR
+    U[User / Business Workflow] --> UI[Next.js Interface]
+    UI --> API[Backend API]
+    API --> LG[LangGraph Orchestrator]
+
+    LG --> PLAN[Planner Node]
+    PLAN --> TOOLS[Tool Router]
+    TOOLS --> MCP[MCP Server]
+    MCP --> EXT[External APIs / Files / DB]
+
+    LG --> RAG[RAG Retriever]
+    RAG --> VDB[(Vector Store)]
+    RAG --> DOCS[Knowledge Sources]
+
+    LG --> REVIEW[Human Review]
+    REVIEW --> OUT[Structured Output]
+    OUT --> UI
+
+    LG --> LOGS[Logs / Traces / Evaluations]
+```
+
+## ./mcp_manifest.json
+
+```json
+{
+  "profile": "Full Stack Developer & AI Engineer",
+  "positioning": "Building AI Agents & Agentic Systems",
+  "core_protocols": ["MCP", "LangGraph", "LangChain", "RAG"],
+  "agent_patterns": [
+    "tool calling",
+    "stateful workflows",
+    "human-in-the-loop review",
+    "retrieval-augmented generation",
+    "workflow automation",
+    "structured outputs"
+  ],
+  "delivery": [
+    "frontend interface",
+    "backend API",
+    "database model",
+    "agent orchestration",
+    "tool boundary design",
+    "deployment notes"
+  ],
+  "security_mindset": [
+    "auth boundaries",
+    "least privilege tools",
+    "secret handling",
+    "audit logs",
+    "safe API integration"
+  ]
+}
+```
+
+## ./build_matrix
+
+| Layer | Tools | What I Build |
+|---|---|---|
+| Agent Orchestration | LangGraph, LangChain, LCEL | Multi-step agents, state graphs, routers, retries, review loops |
+| Tool Protocol | MCP | Tool schemas, MCP servers, connector boundaries, safe tool execution |
+| Knowledge | RAG, embeddings, vector stores | Knowledge assistants, grounded answers, source-aware workflows |
+| Product | Next.js, React, TypeScript | Interfaces, dashboards, admin panels, user workflows |
+| Backend | Node.js, Express, FastAPI | APIs, integrations, auth flows, webhooks, automation services |
+| Data | MongoDB, PostgreSQL, SQL | Persistence, run history, structured outputs, reporting |
+| Automation | Playwright, APIs, scheduled jobs | Research agents, content workflows, business process automation |
+| Security-Aware Engineering | Auth, logs, secrets, validation | Safer boundaries around data, users, tools, and external APIs |
+
+## ./services_vector
 
 ```text
-[ACTIVE] Full Stack Engineering
-[ACTIVE] AI Agent Development
-[ACTIVE] Agentic Systems and Workflow Orchestration
-[ACTIVE] MCP Server and Tool Integration
-[ACTIVE] LangGraph / LangChain Automation
-[ACTIVE] RAG and Knowledge Assistant Builds
-[ACTIVE] API Integrations and Internal Tools
-[ACTIVE] Security-Aware Product Engineering
+ai_agent_development             -> scoped agent workflows, tools, memory/state, handoff
+mcp_server_tool_integration      -> MCP servers, tool schemas, permissions, API connectors
+langgraph_workflow_builds        -> graph nodes, routing, retries, human review, observability
+langchain_lcel_automation        -> chains, structured outputs, model/tool pipelines
+rag_knowledge_assistants         -> ingestion, retrieval, grounded answers, source traceability
+full_stack_ai_features           -> UI, API, database, auth, deployment, documentation
+business_automation              -> repeatable workflows, integrations, dashboards, reports
+security_aware_implementation    -> auth boundaries, secrets, logs, validation, safe APIs
 ```
 
 ## ./featured_work
 
 ```console
-giovanni@workstation:~$ ls -la ~/builds/high-signal
+giovanni@agent-runtime:~$ ls ~/repos --focus agentic-ai
 ```
 
-| Priority | Repository | Mission |
+| Priority | Repository | Focus |
 |---:|---|---|
 | 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Research automation agent with LangGraph, DeepSeek, Playwright, public-source data collection, and structured reports. |
-| 02 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph fundamentals applied to ReAct agents, tool orchestration, streaming, debugging, and workflow control. |
-| 03 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LCEL and LangServe workflow for structured language processing, multilingual output, and LLM pipelines. |
-| 04 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | TypeScript platform for monitoring, alerting, operational visibility, and production-style dashboards. |
-| 05 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | GitHub webhook relay with SHA256 signature verification, Discord notifications, and API boundary handling. |
-| 06 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | YOLOv8 aircraft detection and tracking prototype for visual intelligence workflows. |
-| 07 | [ip-info-finder](https://github.com/giovanniromero-dev/ip-info-finder) | Browser-based IP intelligence, geolocation, ASN lookup, and public data enrichment. |
-| 08 | [face-detection-with-face-api.js](https://github.com/giovanniromero-dev/face-detection-with-face-api.js) | Browser-based face detection prototype for real-time visual analysis workflows. |
+| 02 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph ReAct agents, tool orchestration, streaming, debugging, and graph-based control flow. |
+| 03 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LangChain LCEL and LangServe workflow for structured language processing and LLM pipelines. |
+| 04 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | TypeScript monitoring platform with dashboards, alerts, operational visibility, and API-driven workflows. |
+| 05 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Signed webhook relay with SHA256 verification, Discord notifications, and secure API boundaries. |
+| 06 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | Computer vision prototype for object detection, tracking, and visual intelligence workflows. |
 
-## ./ai_engineering_map
-
-```console
-giovanni@workstation:~$ tree /ai-engineering
-/ai-engineering
-|-- ai_agents
-|   |-- goal_definition
-|   |-- tool_calling
-|   |-- memory_and_state
-|   |-- human_in_the_loop
-|   |-- evaluation_loops
-|   `-- production_handoff
-|
-|-- agentic_systems
-|   |-- langgraph_workflows
-|   |-- langchain_lcel
-|   |-- multi_step_orchestration
-|   |-- retry_and_fallback_paths
-|   |-- logging_and_observability
-|   `-- workflow_debugging
-|
-|-- mcp_and_tools
-|   |-- mcp_server_design
-|   |-- tool_schema_definition
-|   |-- permission_boundaries
-|   |-- api_connector_design
-|   `-- safe_tool_execution
-|
-|-- rag_and_knowledge
-|   |-- document_ingestion
-|   |-- embeddings
-|   |-- retrieval_pipelines
-|   |-- grounded_answers
-|   `-- source_traceability
-|
-|-- full_stack_ai
-|   |-- nextjs_interfaces
-|   |-- backend_apis
-|   |-- auth_and_roles
-|   |-- database_models
-|   |-- dashboards
-|   `-- deployment_notes
-|
-`-- security_aware_engineering
-    |-- authentication_and_authorization
-    |-- data_handling
-    |-- api_boundaries
-    |-- signed_webhooks
-    |-- secrets_management
-    `-- audit_logs
-```
-
-## ./stack.ini
-
-```ini
-[languages]
-python=ai_agents, automation, backend_services
-typescript=full_stack_apps, typed_apis, dashboards
-javascript=frontend, nodejs, browser_tooling
-sql=data_modeling, reporting, persistence
-
-[frontend]
-react=true
-nextjs=true
-angular=true
-vite=true
-responsive_ui=true
-accessibility=true
-seo=true
-
-[backend]
-nodejs=true
-express=true
-fastapi=true
-rest_apis=true
-mongodb=true
-postgresql=true
-firebase=true
-auth_flows=true
-webhooks=true
-docker=true
-github_actions=true
-
-[ai_engineering]
-openai_compatible_apis=true
-mcp=true
-langgraph=true
-langchain=true
-lcel=true
-rag=true
-faiss=true
-tool_calling=true
-agent_orchestration=true
-playwright=true
-
-[automation]
-business_workflows=true
-content_operations=true
-research_agents=true
-api_integrations=true
-dashboards=true
-report_generation=true
-
-[security_aware_engineering]
-secure_api_design=true
-auth_boundaries=true
-input_validation=true
-signed_webhooks=true
-logging_and_audit_trails=true
-least_privilege=true
-secrets_management=true
-```
-
-## ./services_vector
+## ./agentic_system_design
 
 ```text
-ai_agent_development             -> scoped agent workflows, tools, state, handoff
-mcp_server_tool_integration      -> structured tool access, schemas, permissions
-langgraph_langchain_workflows    -> multi-step agentic systems, routing, retries
-rag_knowledge_assistants         -> ingestion, retrieval, grounded answers, sources
-full_stack_ai_features           -> UI, API, database, auth, deployment path
-business_automation              -> repeatable workflows, integrations, dashboards
-security_aware_implementation    -> safer APIs, data boundaries, logs, secrets
+1. define_scope
+   - user goal
+   - tool permissions
+   - data boundaries
+   - expected output
+
+2. design_graph
+   - nodes
+   - edges
+   - state
+   - retry paths
+   - review checkpoints
+
+3. connect_tools
+   - MCP server or direct API connector
+   - schema validation
+   - error handling
+   - logs and traces
+
+4. build_product_layer
+   - UI
+   - backend API
+   - database
+   - auth
+   - admin controls
+
+5. ship_iteration
+   - test cases
+   - usage docs
+   - deployment notes
+   - next-step roadmap
 ```
 
-## ./current_ops
+## ./learning_now
 
-```console
-root@giovanni:~$ tail -f /var/log/current_ops.log
-[+] Building AI agents that connect tools, APIs, data, and useful interfaces
-[+] Studying MCP, LangGraph, LangChain, and agentic AI implementation patterns
-[+] Turning full-stack experience into AI-enabled products and internal systems
-[+] Designing automations with clear scope, review points, and production handoff
-[+] Applying cybersecurity fundamentals to auth, data handling, APIs, and logs
-[+] Keeping the work practical: documented, maintainable, scoped, and shippable
+```text
+[COURSE] Complete MCP Bootcamp: Build Next-Gen AI Agents with MCP
+[COURSE] Complete Agentic AI Bootcamp with LangGraph and LangChain
+[FOCUS]  MCP server architecture, tool schemas, agent orchestration, RAG, evaluations
+[GOAL]   Build useful AI systems that connect tools, data, APIs, and product interfaces
 ```
 
 ## ./contact
 
 ```console
-root@giovanni:~$ ./connect --target professional
+giovanni@agent-runtime:~$ ./connect --target professional
 site      : https://giovanniromero.dev
 linkedin  : https://www.linkedin.com/in/giovannideveloper/
 x         : https://x.com/giovanni_dev_
@@ -205,5 +178,5 @@ email     : contact@giovanniromero.dev
 ```
 
 ```console
-root@giovanni:~$ _
+giovanni@agent-runtime:~$ _
 ```
