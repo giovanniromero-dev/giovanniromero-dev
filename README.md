@@ -11,11 +11,11 @@
 ```
 
 ```console
-giovanni@agent-runtime:~$ whoami
+giovanniromero@dev:~$ whoami
 Full Stack Developer & AI Engineer · Building AI Agents & Agentic Systems ·
 Cybersecurity Enthusiast.
 
-giovanni@agent-runtime:~$ current_focus
+giovanniromero@dev:~$ current_focus
 > LangGraph state machines
 > MCP servers and tool integrations
 > LangChain / LCEL workflows
@@ -110,17 +110,17 @@ security_aware_implementation    -> auth boundaries, secrets, logs, validation, 
 ## ./featured_work
 
 ```console
-giovanni@agent-runtime:~$ ls ~/repos --focus agentic-ai
+giovanniromero@dev:~$ ls ~/repos --focus agentic-ai
 ```
 
-| Priority | Repository | Focus |
+| Priority | Repository | Why it matters for this profile |
 |---:|---|---|
-| 01 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Research automation agent with LangGraph, DeepSeek, Playwright, public-source data collection, and structured reports. |
-| 02 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | LangGraph ReAct agents, tool orchestration, streaming, debugging, and graph-based control flow. |
-| 03 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LangChain LCEL and LangServe workflow for structured language processing and LLM pipelines. |
-| 04 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | TypeScript monitoring platform with dashboards, alerts, operational visibility, and API-driven workflows. |
-| 05 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Signed webhook relay with SHA256 verification, Discord notifications, and secure API boundaries. |
-| 06 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | Computer vision prototype for object detection, tracking, and visual intelligence workflows. |
+| 01 | [langgraph-foundations](https://github.com/giovanniromero-dev/langgraph-foundations) | Most aligned with the new profile: LangGraph agents, ReAct patterns, tool orchestration, streaming, debugging, and graph-based control flow. |
+| 02 | [osint-agent](https://github.com/giovanniromero-dev/osint-agent) | Practical agentic automation: LangGraph, DeepSeek, Playwright, public-source data collection, tool use, and structured reports. |
+| 03 | [lcel-llm-translator](https://github.com/giovanniromero-dev/lcel-llm-translator) | LangChain / LCEL workflow showing structured language processing, LangServe patterns, and LLM pipeline design. |
+| 04 | [network-operations-center](https://github.com/giovanniromero-dev/network-operations-center) | Strong full-stack product signal: TypeScript platform, dashboards, alerts, operational visibility, and API-driven workflows. |
+| 05 | [github-discord-webhook-notifier](https://github.com/giovanniromero-dev/github-discord-webhook-notifier) | Backend/API integration signal: signed webhooks, event routing, Discord notifications, and security-aware API boundaries. |
+| 06 | [airplane-tracking-with-yolov8](https://github.com/giovanniromero-dev/airplane-tracking-with-yolov8) | AI engineering support signal: computer vision prototype for object detection, tracking, and visual intelligence workflows. |
 
 ## ./agentic_system_design
 
@@ -170,7 +170,7 @@ giovanni@agent-runtime:~$ ls ~/repos --focus agentic-ai
 ## ./contact
 
 ```console
-giovanni@agent-runtime:~$ ./connect --target professional
+giovanniromero@dev:~$ ./connect --target professional
 site      : https://giovanniromero.dev
 linkedin  : https://www.linkedin.com/in/giovannideveloper/
 x         : https://x.com/giovanni_dev_
@@ -178,5 +178,5 @@ email     : contact@giovanniromero.dev
 ```
 
 ```console
-giovanni@agent-runtime:~$ _
+giovanniromero@dev:~$ _
 ```
