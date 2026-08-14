@@ -172,7 +172,7 @@ giovanniromero@dev:~$ ls ~/repos --focus agentic-ai
 ```console
 giovanniromero@dev:~$ ./connect --target professional
 site      : https://giovanniromero.dev
-linkedin  : https://www.linkedin.com/in/giovannideveloper/
+linkedin  : https://www.linkedin.com/in/giovanniromero-dev/
 x         : https://x.com/giovanni_dev_
 email     : contact@giovanniromero.dev
 ```
